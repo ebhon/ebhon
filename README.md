@@ -36,7 +36,7 @@ Analyzing the correlation between mental health indicators (PHQ9 scores) and soc
 ### [YOLO-Manga-Bubble-Detection](https://github.com/ebhon/YOLO-manga-bubble-detector)
 A project where I used YOLOv8 to detect manga speech bubbles for automatic text extraction. The goal was to automate the extraction of dialogue from manga pages, enabling machine translation workflows.
 
-### [Manga-Page-Auto-Translation](https://github.com/your-username/Manga-Page-Auto-Translation)
+### [MangaFlow : An AI-Powered-Manga-Auto-Typesetter](https://github.com/ebhon/MangaFlow)
 Currently working on building an end-to-end ML pipeline that automatically translates raw manga pages from Japanese to English. This involves combining techniques from object detection, optical character recognition (OCR), and machine translation to create a seamless pipeline.
 
 ## 🛠️ Technologies & Tools
